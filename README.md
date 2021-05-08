@@ -135,7 +135,7 @@
 
 ## TOUR
 
-**Scope**: User's tour for *Proccess control*
+**Scope**: User's tour for *Proccess control*  
 **Action**: Shows user step by step examplary *Proccess control* functionality
 
 | #                   | Action           | 
