@@ -1,3 +1,7 @@
+### INSTALATION
+**pip install -r requirements.txt**  
+<br />
+<br />
 
 ## TEST SCENARIO CONTENT
 
